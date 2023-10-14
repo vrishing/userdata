@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+table {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px white solid;
+}
+ 
+th {
+  padding: 5px;
+  border: 1px white solid;
+}
+td{
+  padding: 5px;
+}
+img{
+    height: 50px;
+}
